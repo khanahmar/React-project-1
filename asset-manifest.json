@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/khanahmar/React-project-1/static/css/main.5ecf0991.css",
+    "main.js": "/khanahmar/React-project-1/static/js/main.54be3632.js",
+    "static/js/787.28cb0dcd.chunk.js": "/khanahmar/React-project-1/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/khanahmar/React-project-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/khanahmar/React-project-1/index.html",
+    "main.5ecf0991.css.map": "/khanahmar/React-project-1/static/css/main.5ecf0991.css.map",
+    "main.54be3632.js.map": "/khanahmar/React-project-1/static/js/main.54be3632.js.map",
+    "787.28cb0dcd.chunk.js.map": "/khanahmar/React-project-1/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ecf0991.css",
+    "static/js/main.54be3632.js"
+  ]
+}
